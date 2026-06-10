@@ -170,7 +170,8 @@ Set in **Settings → Secrets and variables → Actions**:
 
 | Variable | Value |
 |---|---|
-| `GITOPS_REPO` | `YOUR_GITHUB_USERNAME/zen-gitops` |
+| `GITOPS_REPO` | `YOUR_GITHUB_USERNAME/zen-gitops` |  
+
 
 ---
 

@@ -18,6 +18,7 @@ on:
           - inventory-service
           - manufacturing-service
           - notification-service
+          - qc-service
           - supplier-service
 
 permissions:
